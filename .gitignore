@@ -1,0 +1,8 @@
+/.idea/
+/.vs/
+/build/
+/CMakeFiles/
+/cmake-build-debug/
+/cmake-build-release/
+/test-resources/
+/out/

@@ -1,0 +1,21 @@
+[submodule "lib/glm"]
+	path = lib/glm
+	url = git@github.com:g-truc/glm.git
+[submodule "lib/lodepng"]
+	path = lib/lodepng
+	url = git@github.com:lvandeve/lodepng.git
+[submodule "lib/random"]
+	path = lib/random
+	url = git@github.com:effolkronium/random.git
+[submodule "lib/cxxopts"]
+	path = lib/cxxopts
+	url = git@github.com:jarro2783/cxxopts.git
+[submodule "lib/json"]
+	path = lib/json
+	url = git@github.com:nlohmann/json.git
+[submodule "lib/glob"]
+	path = lib/glob
+	url = git@github.com:heilhead/glob.git
+[submodule "lib/task-graph"]
+	path = lib/task-graph
+	url = git@github.com:heilhead/task-graph.git
